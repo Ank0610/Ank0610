@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm ANKIT RAJ</h1>
+<h1 align="center">Hi, I'm ANKIT RAJ</h1>
 <h3 align="center"></h3>
 
-- <b> I'm Ankit Raj (he/him),</b> MCA Post-Graduate and a IT Passionate.
+- <b> I'm Ankit Raj (he/him),</b> MCA Student and a IT Passionate.
 
-- Exploring <b>MERN Stack Development, python, c++</b> along with some <b> Personal Finance</b>. 
+- Exploring <b>MERN Stack Development,C, C++,JAVA</b> along with some <b> Personal Finance</b>. 
 
 - Continuously learning and engaging with the tech community.
 
@@ -26,7 +26,7 @@
 
 - 👨‍💻 All of my projects are available at **[https://github.com/Ank0610](https://github.com/Ank0610)**
 
-- 💬 Ask me about **C++, C, JAVA, JAVASCRIPT**
+- 💬 Ask me about **C, C++, JAVA, JAVASCRIPT**
 
 - 📫 How to reach me **beingankitkumar7272@gmail.com**
 
@@ -34,7 +34,7 @@
 
 <p align="left">
 <a href="https://twitter.com/beingankitraj72" target="_blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4n_urpJ9XpwOTdzBVbGvactwHrPagYQrTJPYjxfxLGkSyu7nJZVqRVGAeohnPgKMrnKE&usqp=CAU" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a> 
-<a href="https://twitter.com/beingankitraj72" target="_blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgnPuQ1ZxrQdd1u9oddAbs7w9Icycdw-BrSS1XJTT9eBUHNlgCTHob3SPN6xUW_V5KgNI&usqp=CAU" alt="aryangupta0001" height="40" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+<a href="https://www.linkedin.com/in/ankit-raj-b730401bb/" target="_blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgnPuQ1ZxrQdd1u9oddAbs7w9Icycdw-BrSS1XJTT9eBUHNlgCTHob3SPN6xUW_V5KgNI&usqp=CAU" alt="aryangupta0001" height="40" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
 <a href="https://instagram.com/ankiit_raj__?" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" alt="ankiit_raj__" height="40" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
 <a href="https://www.hackerrank.com/profile/beingankitkumar1" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/330px-HackerRank_Icon-1000px.png" alt="aryangupta0001" height="40" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
 </p>
@@ -43,7 +43,7 @@
 
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,mysql,py,django,sqlite,java,vscode,github,linkedin,bootstrap,netlify,html,css,js,pug,mongodb,express,react,nodejs" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,mysql,py,java,vscode,github,linkedin,bootstrap,html,css,js,mongodb,express,react,nodejs" />
     
   </a>
 </p>
@@ -53,13 +53,6 @@
 <br><br><br><br><br><br><br>
 
 ## 📈 Graph
-  [![Aryan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ank0610&theme=react-dark)](https://github.com/Ank0610/github-readme-
-
-
-<h3 align="left">Holopin Badges:</h3>
-
-[![An image of @Ank0610's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/Ank0610)](https://holopin.io/@aryan0001)
-
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ank0610&show_icons=true&locale=en" alt="Ank0610" />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ank0610&" alt="Ank0610" /></p>
