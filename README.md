@@ -1,49 +1,67 @@
-<h2 align="left">Hi! My name is Ankit Raj and I'm a MERN Stack Developer.</h2>
+<h1 align="center">Hi 👋, I'm ANKIT RAJ</h1>
+<h3 align="center"></h3>
 
-###
+- <b> I'm Ankit Raj (he/him),</b> MCA Post-Graduate and a IT Passionate.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+- Exploring <b>MERN Stack Development, python, c++</b> along with some <b> Personal Finance</b>. 
 
-###
+- Continuously learning and engaging with the tech community.
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ank0610" alt="Ank0610" /></a> </p> -->
 
-###
+<br>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ank0610&theme=flat&no-bg=true&no-frame=true&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
 
-###
+<br>
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="[linkedin logo](https://www.linkedin.com/in/ankit-raj-b730401bb/)"  />
-</div>
+![Ank0610's profile views](https://komarev.com/ghpvc/?username=Ank0610&color=ff0000)
+<a href="https://twitter.com/beingankitraj72"><img src="https://img.shields.io/badge/follow%20me%20on-twitter-blue?style=flat&logo=twitter">
+<a href="https://www.linkedin.com/in/ankit-raj-b730401bb/"><img src="https://img.shields.io/badge/Connect%20with%20me%20on-Linkedin-blue">
+  
+  <br>
 
-###
 
-<br clear="both">
+- 🌱 I’m currently learning **HTML,CSS, JavaScript, Django**
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+- 👨‍💻 All of my projects are available at **[https://github.com/Ank0610](https://github.com/Ank0610)**
 
-###
+- 💬 Ask me about **C++, C, JAVA, JAVASCRIPT**
+
+- 📫 How to reach me **beingankitkumar7272@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+
+<p align="left">
+<a href="https://twitter.com/beingankitraj72" target="_blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4n_urpJ9XpwOTdzBVbGvactwHrPagYQrTJPYjxfxLGkSyu7nJZVqRVGAeohnPgKMrnKE&usqp=CAU" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a> 
+<a href="https://twitter.com/beingankitraj72" target="_blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgnPuQ1ZxrQdd1u9oddAbs7w9Icycdw-BrSS1XJTT9eBUHNlgCTHob3SPN6xUW_V5KgNI&usqp=CAU" alt="aryangupta0001" height="40" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+<a href="https://instagram.com/ankiit_raj__?" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" alt="ankiit_raj__" height="40" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+<a href="https://www.hackerrank.com/profile/beingankitkumar1" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/330px-HackerRank_Icon-1000px.png" alt="aryangupta0001" height="40" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+
+  <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,mysql,py,django,sqlite,java,vscode,github,linkedin,bootstrap,netlify,html,css,js,pug,mongodb,express,react,nodejs" />
+    
+  </a>
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ank0610&show_icons=true&locale=en&layout=compact" alt="Ank0610" /></p>
+
+<br><br><br><br><br><br><br>
+
+## 📈 Graph
+  [![Aryan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ank0610&theme=react-dark)](https://github.com/Ank0610/github-readme-
+
+
+<h3 align="left">Holopin Badges:</h3>
+
+[![An image of @Ank0610's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/Ank0610)](https://holopin.io/@aryan0001)
+
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ank0610&show_icons=true&locale=en" alt="Ank0610" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ank0610&" alt="Ank0610" /></p>
+
+
